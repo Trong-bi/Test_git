@@ -1,1 +1,6 @@
-123 45
+#include <stdio.h>
+
+int main(){
+
+    return 0;
+}
