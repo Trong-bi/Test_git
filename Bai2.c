@@ -8,5 +8,6 @@ int main()
    scanf("%d%d", &a, &b);
    ans = (a+b)/2;
    printf("trung binh cua a va b: %f",ans);
+   printf("xong");
    return 0;
 }
